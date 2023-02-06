@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusif Hajiyev</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusifh&label=Profile%20views&color=0e75b6&style=flat" alt="yusifh" /> </p>
+
 
 
 
