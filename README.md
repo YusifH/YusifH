@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://fb.com/yusifhaciyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yusifhaciyev" height="30" width="40" /></a>
 <a href="https://instagram.com/yusif_hajiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusif_hajiyev" height="30" width="40" /></a>
-    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="yusifhaciyw" data-description="Support me on Buy me a coffee!" data-message="" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
